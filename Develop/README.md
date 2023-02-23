@@ -10,11 +10,11 @@
   * [Questions](#questions)
   * [Credits](#credits)
   ## Description
-  Software to make ReadMe generation easier and faster
+  N/A
   ## Installation
   N/A
   ## Usage
-  Use for Developers to efficiently make simple, professional looking ReadME files
+  N/A
   
   ## Contributing
   undefined
@@ -23,6 +23,6 @@
   ## Questions
   Have questions about this project?  
   GitHub: https://github.com/Bxrg  
-  Email: noahborg122801@yahoo.com
+  Email: N/A
   ## Credits
   undefined
